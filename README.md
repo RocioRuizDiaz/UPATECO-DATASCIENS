@@ -8,6 +8,7 @@ Este espacio está dedicado a compartir y organizar todo el material de cursada 
 
 ## 📚 Materias del cuatrimestre
 
+
 📘 **Matemática para Ciencia de Datos**  
 📗 **Fundamentos de Programación y Algoritmos**  
 📙 **Bases de Datos**  
@@ -18,9 +19,11 @@ Este espacio está dedicado a compartir y organizar todo el material de cursada 
 ## 📂 Estructura del Repositorio
 
 
-> ⚙️ Todo el contenido está organizado por materia para facilitar el acceso y estudio.
-
----
+⚙️ Todo el contenido está organizado por materia para facilitar el acceso y estudio.
+-Materias:
+    -Trabajo Practico:
+        -Teoria
+        -Practica
 
 ## 🎯 Objetivo del Repositorio
 
